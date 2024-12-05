@@ -4,7 +4,7 @@ created_by: Madhavi
 seed_examples:
   - context: |
       The recent acquisition of VMware by Broadcom has sparked concerns about potential price increases, support changes, and uncertainty about future development. This has led many organizations to explore alternative virtualization platforms like Azure Stack HCI and OpenShift Virtualization, often with Dell Technologies as a platform integrator. Key considerations include licensing models (subscription vs. perpetual), virtualization technologies (Hyper-V vs. KubeVirt), and factors like workload compatibility, integration, security, cost, and required skillsets.    questions_and_answers:
-  questions_and_answers:
+    questions_and_answers:
       - question: |
           Why are companies considering migrating away from VMware after the Broadcom acquisition?
         answer: |
