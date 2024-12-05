@@ -1,44 +1,85 @@
 version: 3
-domain: Matrix Movies
-created_by: ChatGPT
+domain: movies_matrix
+created_by: Madhavi
 seed_examples:
   - context: |
-      The Matrix movie series is a science fiction franchise that explores themes of reality, free will, and human-machine interaction. 
-      The story begins with Neo, a computer hacker, discovering that the world he lives in is a simulated reality called the Matrix. 
-      Guided by Morpheus and Trinity, Neo learns about his potential as The One, destined to free humanity from machine domination. 
-      The series combines philosophical questions, groundbreaking action scenes, and iconic dialogues to create a lasting impact on audiences. 
-      It includes four films: The Matrix released in 1999, The Matrix Reloaded released in 2003, The Matrix Revolutions released in 2003, and The Matrix Resurrections released in 2021. 
-      Prominent characters include Neo, Morpheus, Trinity, Agent Smith, the Architect, the Oracle, and the Keymaker. 
-      Major themes include the nature of reality, determinism vs. free will, and the cost of knowledge and freedom.
+      Part 1: The Matrix (1999) - The Awakening
+      The Premise: The world we perceive as real is actually a simulated reality called "the Matrix," created by machines to subdue humanity. Neo, a computer hacker, is contacted by rebels who believe he is "The One," a prophesied savior with the power to manipulate the Matrix.
+      Key Events: Neo chooses the red pill and learns the truth, trains in a virtual dojo, fights Agent Smith in a subway, and begins to believe in his destiny.
+      Core Theme: Discovering the truth about reality and embracing one's potential, even if it means questioning everything you thought you knew.
     questions_and_answers:
       - question: |
-          What is the Matrix in the movie series?
+          What is the Matrix?
         answer: |
-          The Matrix is a simulated reality created by machines to keep humans unaware that they are being used as an energy source. It is a virtual world designed to resemble the late 20th century.
+          The Matrix is a computer simulation of the real world, created by machines to enslave humanity.
       - question: |
-          What role does Neo play in the Matrix series?
+          Why does Morpheus offer Neo a choice between two pills?
         answer: |
-          Neo is The One, a prophesied individual destined to free humanity from the Matrix. He learns to manipulate the rules of the simulated reality and ultimately sacrifices himself to bring peace between humans and machines.
+          The pills represent a choice between staying in the Matrix (blue pill) or learning the truth about reality (red pill).
       - question: |
-          What does the Architect reveal to Neo in *The Matrix Reloaded*?
+          What is Neo's special ability?
         answer: |
-          The Architect reveals that Neo is part of a cycle where the Matrix is periodically reset, and Zion is destroyed and rebuilt. This system is designed to control humanity and manage the anomaly of free will.
+          Neo is "The One," a person with the power to manipulate the Matrix with his mind.
       - question: |
-          Who is the Keymaker, and what is his purpose?
+          Who are the Agents?
         answer: |
-          The Keymaker is a program who creates access points to restricted areas of the Matrix. His purpose is to help Neo reach the Source, the central control of the Matrix.
+          Agents are powerful computer programs that protect the Matrix and eliminate threats to the system.
       - question: |
-          What is the significance of Neo's choice to save Trinity over humanity in *The Matrix Reloaded*?
+          What does Neo mean when he says he's going to show people "a world without rules and controls"?
         answer: |
-          Choice of Neo to save Trinity instead of adhering to the Architect's expectations signifies his defiance of determinism and his prioritization of personal emotion over systemic control. This decision disrupts the Architect's cycle of control.
+          He wants to free people from the Matrix and show them the possibilities of a world without limitations.
+  - context: |
+      Part 2: The Matrix Reloaded & The Matrix Revolutions (2003) - The War
+      The Premise: Neo grapples with his role as "The One" while Zion, the last human city, faces imminent destruction from the machines. The conflict escalates, with Neo facing new enemies and making difficult choices that will determine the fate of humanity.
+      Key Events: A highway chase, a battle with hundreds of Agent Smith clones, Neo meeting the Architect, the siege of Zion, Neo and Trinity's journey to the Machine City, and a final showdown between Neo and Smith.
+      Core Theme: Facing seemingly impossible odds, the power of choice and sacrifice, and the struggle for freedom against overwhelming power.
+    questions_and_answers:
       - question: |
-          How does The Matrix Revolutions conclude?
+          What is Zion?
         answer: |
-          The series concludes with Neo sacrificing himself to destroy Agent Smith, who has become a rogue program threatening both the Matrix and the real world. His sacrifice brokers a truce between humans and machines, bringing temporary peace.
+          Zion is the last human city, located deep underground, where those who have escaped the Matrix live.
       - question: |
-          What themes are explored in the Matrix movies?
+          Who is the Merovingian?
         answer: |
-          The Matrix movies explore themes of reality and illusion, free will versus determinism, human potential, the symbiotic relationship between humans and machines, and the sacrifices required for freedom and knowledge.
+          The Merovingian is a powerful program that controls the underworld of the Matrix.
+      - question: |
+          What does the Architect reveal to Neo?
+        answer: |
+          The Architect explains that the Matrix is a cycle of control, and Neo is part of that cycle.
+      - question: |
+          Why do Neo and Trinity go to the Machine City?          
+        answer: |
+          They hope to negotiate peace with the machines and save Zion from destruction.
+      - question: |
+          How does Neo defeat Agent Smith?
+        answer: |
+          Neo allows Smith to assimilate him, which overloads Smith's code and destroys him.
+  - context: |
+      Part 3: The Matrix Resurrections (2021) - The Rebirth
+      The Premise: Decades after the events of the original trilogy, Neo and Trinity are trapped in a new version of the Matrix, unaware of their past lives. They must rediscover their connection and fight to break free from the simulation once again.
+      Key Events: Neo's reawakening, meeting a new Morpheus and a young rebel named Bugs, Trinity remembering her true identity, and a final flight symbolizing their liberation.
+      Core Theme: The enduring power of love and hope, the importance of memory and identity, and the possibility of reshaping reality through choice and belief.
+    questions_and_answers:
+      - question: |
+          Why is Neo back in the Matrix?
+        answer: |
+          A new version of the Matrix has been created, and Neo has been re-inserted, his memories suppressed.
+      - question: |
+          Who is Bugs?
+        answer: |
+          Bugs is a young rebel who believes in Neo and helps him to break free from the Matrix.
+      - question: |
+          What is different about this version of Morpheus?
+        answer: |
+          This Morpheus is a program based on the original Morpheus, created within the new Matrix.
+      - question: |
+          How does Trinity regain her memories?
+        answer: |
+          Through her connection with Neo and by confronting the Analyst, the program controlling this version of the Matrix.
+      - question: |
+          What does the ending of Resurrections suggest about the future of the Matrix?
+        answer: |
+          Neo and Trinity, now working together, have the power to reshape the Matrix and create a more balanced world.
 document_outline: |
   The ultimate matrix series
 document:
