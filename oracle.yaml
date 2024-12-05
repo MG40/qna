@@ -43,6 +43,6 @@ document_outline: |
   The ultimate matrix series
 document:
   repo: https://github.com/MG40/dodge-this.git
-  commit: 58d3182b73a2cb0afbeb8b0bfd644089985ff301
+  commit: b37fe52ddca18d8f042bc0426097f4238f003b86
   patterns:
     - data.md
