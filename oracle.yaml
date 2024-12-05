@@ -1,5 +1,5 @@
 version: 3
-domain: Matrix Movies
+domain: movies_matrix
 created_by: Madhavi
 seed_examples:
   - context: |
