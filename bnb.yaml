@@ -3,7 +3,9 @@ domain: virtualization_alternates
 created_by: Madhavi
 seed_examples:
   - context: |
-      The recent acquisition of VMware by Broadcom has sparked concerns about potential price increases, support changes, and uncertainty about future development. This has led many organizations to explore alternative virtualization platforms like Azure Stack HCI and OpenShift Virtualization, often with Dell Technologies as a platform integrator. Key considerations include licensing models (subscription vs. perpetual), virtualization technologies (Hyper-V vs. KubeVirt), and factors like workload compatibility, integration, security, cost, and required skillsets.    
+      The recent acquisition of VMware by Broadcom has sparked concerns about potential price increases, support changes, and uncertainty about future development. 
+      This has led many organizations to explore alternative virtualization platforms like Azure Stack HCI and OpenShift Virtualization, often with Dell Technologies as a platform integrator. 
+      Key considerations include licensing models (subscription vs. perpetual), virtualization technologies (Hyper-V vs. KubeVirt), and factors like workload compatibility, integration, security, cost, and required skillsets.
     questions_and_answers:
       - question: |
           Why are companies considering migrating away from VMware after the Broadcom acquisition?
@@ -17,7 +19,7 @@ seed_examples:
           What role does Dell Technologies play in migrating to these alternative platforms? 
         answer: |
           Dell Technologies can act as a platform integrator, providing hardware, software, and services to simplify the migration process. They offer validated solutions, deployment assistance, and ongoing support for both Azure Stack HCI and OpenShift Virtualization.
-      - question: |
+            - question: |
           What are the licensing options for Azure Stack HCI?
         answer: |
           Azure Stack HCI offers both subscription-based and perpetual licensing options. The new perpetual license includes the Azure Stack HCI OS, Windows Server Datacenter, and Azure Kubernetes Service on Azure Stack HCI.
