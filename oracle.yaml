@@ -3,10 +3,9 @@ domain: movies_matrix
 created_by: Madhavi
 seed_examples:
   - context: |
-      First part of the series is "The Matrix (1999) - The Awakening."
-      The Premise is set as the world we perceive as real is actually a simulated reality called "the Matrix," created by machines to subdue humanity. 
-      Neo, a computer hacker, is contacted by rebels who believe he is "The One," a prophesied savior with the power to manipulate the Matrix.
-      The key events are Neo chooses the red pill and learns the truth, trains in a virtual dojo, fights Agent Smith in a subway, and begins to believe in his destiny.
+      The First part of the series is The Matrix (1999) - The Awakening
+      The Premise is the world we perceive as real is actually a simulated reality called "the Matrix," created by machines to subdue humanity. Neo, a computer hacker, is contacted by rebels who believe he is "The One," a prophesied savior with the power to manipulate the Matrix.
+      Key Events are Neo chooses the red pill and learns the truth, trains in a virtual dojo, fights Agent Smith in a subway, and begins to believe in his destiny.
       The core Theme is Discovering the truth about reality and embracing one's potential, even if it means questioning everything you thought you knew.
     questions_and_answers:
       - question: |
@@ -29,7 +28,7 @@ seed_examples:
           What does Neo mean when he says he's going to show people "a world without rules and controls"?
         answer: |
           He wants to free people from the Matrix and show them the possibilities of a world without limitations.
-        - question: |
+      - question: |
           Why does Neo have to choose between the red pill and the blue pill?
         answer: |
           The choice symbolizes the decision to either remain ignorant of the truth (blue pill) or embrace reality, however difficult it may be (red pill).
@@ -41,10 +40,11 @@ seed_examples:
           What is the significance of the "white rabbit" that Neo follows?
         answer:
           The white rabbit is a symbol of curiosity and the pursuit of truth, leading Neo down the path to discovering the Matrix.
+
   - context: |
-      The second part of the series is "The Matrix Reloaded & The Matrix Revolutions (2003) - The War"
+      The second part of the series is The Matrix Reloaded & The Matrix Revolutions (2003) - The War
       The Premise is Neo grapples with his role as "The One" while Zion, the last human city, faces imminent destruction from the machines. The conflict escalates, with Neo facing new enemies and making difficult choices that will determine the fate of humanity.
-      The Key Events are A highway chase, a battle with hundreds of Agent Smith clones, Neo meeting the Architect, the siege of Zion, Neo and Trinity's journey to the Machine City, and a final showdown between Neo and Smith.
+      Key Events are A highway chase, a battle with hundreds of Agent Smith clones, Neo meeting the Architect, the siege of Zion, Neo and Trinity's journey to the Machine City, and a final showdown between Neo and Smith.
       The Core Theme is Facing seemingly impossible odds, the power of choice and sacrifice, and the struggle for freedom against overwhelming power.
     questions_and_answers:
       - question: |
@@ -67,22 +67,10 @@ seed_examples:
           How does Neo defeat Agent Smith?
         answer: |
           Neo allows Smith to assimilate him, which overloads Smith's code and destroys him.
-      - question: |
-          What are the Twins?
-        answer: |
-          The Twins are pale, ghostly programs working for the Merovingian, with the ability to phase through solid objects.
-      - question: |
-          What is the Keymaker's purpose?
-        answer: |
-          The Keymaker is a program who can open the way to the Source, the machine mainframe, allowing Neo to fulfill his destiny.
-      - question: |
-          Why does Neo have to choose between saving Trinity or Zion?
-        answer: |
-          The Architect forces this choice to perpetuate the cycle of the Matrix, testing Neo's free will.
   - context: |
-      The third Part of the series is "The Matrix Resurrections (2021) - The Rebirth"
+      The third part is  The Matrix Resurrections (2021) - The Rebirth
       The Premise is Decades after the events of the original trilogy, Neo and Trinity are trapped in a new version of the Matrix, unaware of their past lives. They must rediscover their connection and fight to break free from the simulation once again.
-      The Key Events are Neo's reawakening, meeting a new Morpheus and a young rebel named Bugs, Trinity remembering her true identity, and a final flight symbolizing their liberation.
+      Key Events are Neo's reawakening, meeting a new Morpheus and a young rebel named Bugs, Trinity remembering her true identity, and a final flight symbolizing their liberation.
       The Core Theme is The enduring power of love and hope, the importance of memory and identity, and the possibility of reshaping reality through choice and belief.
     questions_and_answers:
       - question: |
@@ -105,18 +93,62 @@ seed_examples:
           What does the ending of Resurrections suggest about the future of the Matrix?
         answer: |
           Neo and Trinity, now working together, have the power to reshape the Matrix and create a more balanced world.
+  - context: |
+      The World of the Matrix 
+      A computer simulation that enslaves humanity, hiding the real world which is a desolate wasteland.
+      Key Locations: The Matrix: A digital reality mimicking different time periods, but with rules that can be bent.
+      Key Locations: Zion: The last human city, hidden deep underground.
+      Key Locations: The Machine City: The central hub of the machines, a place of advanced technology.
+      Sentinels: Squid-like machines that hunt humans in the real world.        questions_and_answers:
+    questions_and_answers:
       - question: |
-          Who is the Analyst?
+          What is the purpose of the Matrix?
         answer: |
-          The Analyst is a new program who has replaced the Architect, studying Neo and Trinity to create a more stable Matrix.
+          To keep humans enslaved and unaware of the real world.
       - question: |
-          What is the significance of Neo's video game design in Resurrections?
+          Where do the humans who escape the Matrix live?
         answer: |
-          It reflects his subconscious awareness of the Matrix and his role within it, blurring the lines between reality and simulation.
+          In Zion, a city hidden deep underground.
       - question: |
-          Why does Trinity have a family in the new Matrix?
+          What is the difference between Agents and programs like the Oracle?
         answer: |
-          The Analyst uses Trinity's family to anchor her to the Matrix, suppressing her true identity and potential.
+          Agents enforce the rules of the Matrix, while programs like the Oracle have different roles and motivations within the system.
+      - question: |
+          How do humans enter and exit the Matrix?
+        answer: |
+          They "plug in" using a neural interface, and can exit through specific points like phone lines.
+      - question: |
+          What are Sentinels?
+        answer: |
+          Machines that patrol the real world and hunt humans.
+    - context: |
+        Philosophical Ideas: Reality vs. Simulation: What is real? Can we trust our senses?
+        Philosophical Ideas: Humanity vs. Technology: What are the consequences of unchecked technological advancement?
+        Character Arcs: Neo's Journey: From an ordinary hacker to a powerful savior who challenges the system.
+        Character Arcs: Agent Smith's Transformation: From an agent of control to a symbol of chaos and destruction.
+        The Series' Legacy: Cultural Impact: Influencing countless films, books, games, and philosophical discussions.
+        Visual Effects: Pioneering techniques like "bullet time" that changed action filmmaking.
+      questions_and_answers:
+        - question: |
+            What is the main philosophical question the Matrix series explores about reality?
+          answer: |
+            Whether the reality we perceive is genuine or an illusion.
+        - question: |
+            What does Neo's journey represent?
+          answer:
+            The potential for growth, self-discovery, and sacrifice.
+        - question: |
+            How does Agent Smith change throughout the series?
+          answer:
+            He evolves from an agent of order to a symbol of chaos.
+        - question: |
+            What is the significance of "bullet time"?
+          answer:
+            It was a groundbreaking visual effect that changed action filmmaking.
+        - question: |
+            Why is the Matrix series still relevant today?
+          answer:
+            It explores timeless themes about technology, reality, and the human condition that remain relevant in our increasingly digital world.
 document_outline: |
   The ultimate matrix series
 document:
