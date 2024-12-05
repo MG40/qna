@@ -25,3 +25,10 @@ seed_examples:
           What are the key considerations when choosing between Azure Stack HCI and OpenShift Virtualization?
         answer: |
           Key considerations include workload compatibility with the chosen hypervisor, integration with existing infrastructure, security features, total cost of ownership, and the skillset of your IT team.
+document_outline: |
+  Alternatives to virtualization platform
+document:
+  repo: https://github.com/MG40/bnb.git
+  commit: 3bb35ecd7129fde75894faca1078967b06ba530b
+  patterns:
+    - data.md
