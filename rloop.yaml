@@ -81,4 +81,11 @@ seed_examples:
     - question: |
         Are there specific hackathons or events in Singapore I should consider?
       answer: |
-        Yes, in Singapore, you can look for events like the InstructLabs Hackathon, KubeDay Singapore, and other local tech conferences or hackathons. These           events focus on various topics like cloud computing, Kubernetes, and open-source technologies, providing valuable experiences and networking                   opportunities.
+        Yes, in Singapore, you can look for events like the InstructLabs Hackathon, KubeDay Singapore, and other local tech conferences or hackathons. These           events focus on various topics like cloud computing, Kubernetes, and open-source technologies, providing valuable experiences and networking opportunities.
+document_outline: |
+  How to get back to work after a break. reconciliation loop.
+document:
+  repo: https://github.com/MG40/rloop.git
+  commit: 33bc48fef157441044c2eef46b1ce627c998b1a1
+  patterns:
+    - data.md        
