@@ -33,3 +33,10 @@ seed_examples:
           What themes are explored in the Matrix movies?
         answer: |
           The Matrix movies explore themes of reality and illusion, free will versus determinism, human potential, the symbiotic relationship between humans and machines, and the sacrifices required for freedom and knowledge.
+document_outline: |
+  The ultimate matrix series
+document:
+  repo: https://github.com/MG40/dodge-this.git
+  commit: 58d3182b73a2cb0afbeb8b0bfd644089985ff301
+  patterns:
+    - data.md
