@@ -5,79 +5,43 @@ seed_examples:
   - context: >
       Returning to the IT workforce after a career break can be both exciting and challenging, especially for middle-aged women who have prior experience in areas like system administration. The technology industry evolves rapidly, and staying updated with the latest trends is crucial. Women re-entering the workforce can leverage their previous experience while updating their skills to align with current industry demands. This involves familiarizing themselves with new technologies such as cloud computing, virtualization, automation, and cybersecurity.
 
-      Online learning platforms offer courses to refresh and expand knowledge in areas like Linux administration, Windows Server management, and cloud services such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Earning certifications like AWS Certified Solutions Architect – Associate, Microsoft Certified: Azure Administrator Associate, or CompTIA Cloud+ can enhance credentials and demonstrate commitment to potential employers.
-
-      Networking is essential in this journey. Reconnecting with former colleagues, joining professional groups on platforms like LinkedIn, and attending industry events can open up opportunities and provide valuable insights. Participating in meetup groups focused on technology can also help expand your professional network and keep you informed about the latest industry developments. In Singapore, there are several meetup groups that can help you connect with other IT professionals as you return to the workforce. These include the Red Hat User Group Singapore, Cloud Native Computing Singapore, IBM Developer Singapore, Women Who Code Singapore, Singapore AWS User Group, DevOps Singapore, Singapore Linux Meetup Group, Kubernetes Singapore, tech meetups hosted by SGInnovate, and Google Developer Group Singapore. Joining these groups provides opportunities to network, learn about the latest technologies, and ease your transition back into the IT workforce.
-
       Participating in hackathons and tech events can also enhance your skills and provide practical experience. Events like the InstructLabs Hackathon and KubeDay offer hands-on opportunities to work on real-world projects, collaborate with other professionals, and stay updated on industry trends.
-
-      Programs like Outreachy offer paid, remote internships to support diversity in tech by connecting people from underrepresented groups, including women, with opportunities in open-source projects. Globally, numerous organizations and initiatives support women in coding and technology. The Anita Borg Institute organizes the Grace Hopper Celebration, one of the world's largest gatherings of women technologists. Women in Technology International provides resources, networking opportunities, and advocacy for women in technology. Technovation invites girls worldwide to learn and apply skills needed to solve real-world problems through technology. Girls in Tech operates in over 50 countries, focusing on engagement, education, and empowerment. She Codes in Australia aims to increase diversity by empowering women through coding workshops and events.
-
-      Addressing barriers like cultural stereotypes, access to education, workplace discrimination, and lack of role models is crucial. By updating technical and soft skills, seeking mentorship, participating in meetup groups and hackathons, and utilizing available resources, women can successfully re-enter the IT workforce. The combination of prior experience and newly acquired skills, particularly in areas like cloud computing, makes them strong candidates in today's IT landscape.      Globally, numerous organizations and initiatives support women in coding and technology. The Anita Borg Institute organizes the Grace Hopper Celebration, one of the world's largest gatherings of women technologists. Women in Technology International provides resources, networking opportunities, and advocacy for women in technology. Technovation invites girls worldwide to learn and apply skills needed to solve real-world problems through technology. Girls in Tech operates in over 50 countries, focusing on engagement, education, and empowerment. She Codes in Australia aims to increase diversity by empowering women through coding workshops and events.
-
-      Addressing barriers like cultural stereotypes, access to education, workplace discrimination, and lack of role models is crucial. By updating technical and soft skills, seeking mentorship, and utilizing available resources, women can successfully re-enter the IT workforce. The combination of prior experience and newly acquired skills, particularly in areas like cloud computing, makes them strong candidates in today's IT landscape.
-
-      The global technology industry is experiencing a growing demand for women coders as it seeks to better represent its diverse user base through inclusive teams and products. Around the world, organizations are initiating programs to encourage women and girls to pursue careers in coding. The aim is to enhance women's participation in software development and other STEM fields, leveraging the unique skills, creativity, and perspectives that women bring. By increasing women's involvement in technology globally, the development process becomes more inclusive and reflective of user needs, leading to innovations that resonate with a wide range of people.
-
-      Despite progress, women remain underrepresented in technology roles worldwide. According to UNESCO, women constitute approximately 35% of all students enrolled in STEM-related fields globally. In engineering, they represent 28%, and in information and communication technology, just 3%. The World Economic Forum reports that women make up only 26% of professionals in artificial intelligence globally. These statistics highlight a significant gender gap in the tech industry, emphasizing the need for efforts to promote gender equality in STEM fields across the globe.
-
-      Historical contributions of women to technology are evident internationally. Ada Lovelace from England is often recognized as the world's first computer programmer for her work in the 19th century. In the mid-20th century, Hedy Lamarr, an Austrian-American actress and inventor, contributed to the development of frequency-hopping spread spectrum technology, a precursor to modern wireless communication technologies like Wi-Fi and Bluetooth. In China, the 18th-century astronomer Wang Zhenyi made significant strides in understanding eclipses and celestial movements, challenging the gender norms of her time.
-
-      Educational pathways for coders vary globally. Some pursue university degrees in computer science, while others attend coding bootcamps or engage in online courses. Coding bootcamps have emerged worldwide as flexible and accessible means to acquire programming skills. These programs are particularly beneficial for women who may face barriers in traditional educational settings due to cultural, economic, or social factors. Challenges remain, such as ensuring global recognition of bootcamp certifications and maintaining high educational standards across different regions.
-
-      Women choose careers in coding for various reasons, including the desire to drive innovation, solve societal challenges, and contribute to the global economy. Coding offers opportunities for creative expression and problem-solving within a rapidly growing industry. Additionally, coding careers often provide competitive salaries and flexible working arrangements, appealing to women balancing professional and personal responsibilities.
-
-      Numerous global organizations support women in coding and technology. The Anita Borg Institute, with an international reach, organizes the Grace Hopper Celebration, one of the world's largest gatherings of women technologists. Women in Technology International offers resources, networking opportunities, and advocacy for women across the globe. Technovation invites girls worldwide to learn and apply skills needed to solve real-world problems through technology. Girls in Tech operates in over 50 countries, focusing on engagement, education, and empowerment. In Australia, She Codes aims to increase diversity by empowering women through coding workshops and events.
-
-      In Africa, organizations like AkiraChix in Kenya empower young women to pursue technology careers through training and mentorship. In Latin America, Laboratoria operates in Peru, Mexico, Brazil, and Chile, offering coding bootcamps to women and assisting them in securing jobs in the tech industry. In Asia, initiatives such as Rails Girls and Women Who Code have chapters in countries like Japan, India, and Singapore, providing free programming workshops and support networks.
-
-      Scholarships and financial assistance play a crucial role in increasing women's access to technology education globally. Programs like the Adobe Research Women-in-Technology Scholarship and the Schlumberger Foundation's Faculty for the Future grant support women pursuing STEM degrees worldwide, helping them overcome financial barriers and focus on their studies.
-
-      Early exposure to coding is vital in addressing the gender gap in tech fields. Programs designed for girls include Code to Inspire in Afghanistan, the first coding school for girls in the country, aiming to empower young women with programming skills. Africa Code Week introduces coding to youth across numerous African countries, encouraging girls' participation. CoderDojo is a global volunteer-led community offering free programming clubs for young people, with efforts to include more girls in coding.
-
-      Artificial intelligence is transforming industries worldwide, and including more women in AI is essential for creating equitable and representative technologies. Diversity in AI teams leads to innovative solutions and helps mitigate biases that can arise from homogeneous groups. Organizations like Women in AI operate globally to close the gender gap in the AI sector by educating and inspiring women and raising awareness about diversity.
-
-      Barriers to women's participation in tech and AI vary but commonly include cultural stereotypes that consider STEM fields as male domains, discouraging girls from these careers. In some regions, access to education is limited due to economic or social factors. Workplace discrimination, gender bias, and a lack of inclusive policies can deter women from entering or remaining in tech fields. The scarcity of female role models in technology makes it harder for young women to envision career paths in the industry.
-
-      Addressing these challenges requires global collaboration among governments, educational institutions, corporations, and nonprofits. Initiatives like the United Nations' Sustainable Development Goals aim to achieve gender equality and empower all women and girls, including increasing their participation in technology and innovation.
-
-      Increasing women's participation in coding and artificial intelligence is a global imperative. It is essential for promoting gender equality, driving innovation, stimulating economic growth, and creating technologies that serve diverse populations. By supporting educational opportunities, challenging cultural stereotypes, and fostering inclusive workplaces, the global community can empower more women to contribute to the tech industry. This collective effort will help ensure that technological advancements benefit all members of society and reflect the rich diversity of the world.
     questions_and_answers:
       - question: >
-          1. Why is diversity important in AI teams, according to the context?
+          Why is diversity important in AI teams, according to the context?
         answer: >
           Diversity in AI teams leads to a broader range of ideas and solutions. Women bring unique perspectives and problem-solving approaches that drive innovation, fostering creativity and leading to the development of more effective and inclusive AI applications.
       - question: >
-          2. How can increasing the number of women in AI help mitigate bias in AI systems?
+          How can increasing the number of women in AI help mitigate bias in AI systems?
         answer: >
           Women in AI can recognize and address gender biases in algorithms and datasets. Their involvement helps develop fair and unbiased AI systems by ensuring that diverse perspectives are considered, reducing discriminatory outcomes in areas like hiring, loans, and law enforcement.
       - question: >
-          3. What percentage of AI professionals globally are women, according to the World Economic Forum's "Global Gender Gap Report 2021"?
+          What percentage of AI professionals globally are women, according to the World Economic Forum's "Global Gender Gap Report 2021"?
         answer: >
           Women make up only 22% of AI professionals globally.
       - question: >
-          4. List two challenges that contribute to the underrepresentation of women in AI.
+          List two challenges that contribute to the underrepresentation of women in AI.
         answer: >
           - Educational gaps due to stereotypes and lack of encouragement for women to pursue STEM fields.
           - Workplace culture characterized by gender bias and lack of inclusivity in tech companies.
       - question: >
-          5. Name two organizations that are working to increase women's participation in AI.
+          Name two organizations that are working to increase women's participation in AI.
         answer: >
           - Women in AI (WAI)
           - AI4ALL
       - question: >
-          6. How does increasing women's participation in AI contribute to economic empowerment and equality?
+          How does increasing women's participation in AI contribute to economic empowerment and equality?
         answer: >
           By providing access to high-paying, fast-growing careers, increasing women's participation in AI can help close the gender pay gap, promote economic equality, and offer opportunities for financial independence and leadership roles.
       - question: >
-          7. Why is it important for AI products to be developed by diverse teams, including women?
+          Why is it important for AI products to be developed by diverse teams, including women?
         answer: >
           Diverse teams ensure that AI products reflect the needs and preferences of a broader user base, including women who are significant consumers of technology. This leads to improved user satisfaction, expanded market reach, and products that better serve society.
       - question: >
-          8. What role do women play in promoting ethical AI development?
+          What role do women play in promoting ethical AI development?
         answer: >
           Women contribute to essential discussions on privacy, consent, and the societal impact of AI technologies. Their perspectives help shape ethical guidelines and standards, ensuring that AI developments respect human rights and values.
-                - question: |
+      - question: |
           Are there specific hackathons or events in Singapore I should consider?
         answer: |
           Yes, in Singapore, you can look for events like the InstructLabs Hackathon, KubeDay Singapore, and other local tech conferences or hackathons. These events focus on various topics like cloud computing, Kubernetes, and open-source technologies, providing valuable experiences and networking opportunities.
@@ -85,6 +49,6 @@ document_outline: |
   How to get back to work after a break. reconciliation loop.
 document:
   repo: https://github.com/MG40/rloop.git
-  commit: 33bc48fef157441044c2eef46b1ce627c998b1a1
+  commit: 85958598acd85636c28c4bd76da0fdf51ca640f8
   patterns:
     - data.md
