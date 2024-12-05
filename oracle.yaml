@@ -1,10 +1,10 @@
 version: 3
-domain: movies_matrix
-created_by: Madhavi
+domain: Matrix Movies
+created_by: ChatGPT
 seed_examples:
   - context: |
       The Matrix movie series is a science fiction franchise that explores themes of reality, free will, and human-machine interaction. The story begins with Neo, a computer hacker, discovering that the world he lives in is a simulated reality called the Matrix. Guided by Morpheus and Trinity, Neo learns about his potential as The One, destined to free humanity from machine domination. The series combines philosophical questions, groundbreaking action scenes, and iconic dialogues to create a lasting impact on audiences. It includes four films: The Matrix released in 1999, The Matrix Reloaded released in 2003, The Matrix Revolutions released in 2003, and The Matrix Resurrections released in 2021. Prominent characters include Neo, Morpheus, Trinity, Agent Smith, the Architect, the Oracle, and the Keymaker. Major themes include the nature of reality, determinism vs. free will, and the cost of knowledge and freedom.
-  questions_and_answers:
+    questions_and_answers:
       - question: |
           What is the Matrix in the movie series?
         answer: |
