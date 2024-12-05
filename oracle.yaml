@@ -43,7 +43,7 @@ seed_examples:
           The white rabbit is a symbol of curiosity and the pursuit of truth, leading Neo down the path to discovering the Matrix.
   - context: |
       The second part of the series is The Matrix Reloaded & The Matrix Revolutions (2003) - The War
-      The Premise is Neo grapples with his role as "The One" while Zion, the last human city, faces imminent destruction from the machines. 
+      The Premise is Neo grapples with his role as "The One" while Zion, the last human city, faces imminent destruction from the machines.
       The conflict escalates, with Neo facing new enemies and making difficult choices that will determine the fate of humanity.
       Key Events are A highway chase, a battle with hundreds of Agent Smith clones, Neo meeting the Architect, the siege of Zion, Neo and Trinity's journey to the Machine City, and a final showdown between Neo and Smith.
       The Core Theme is Facing seemingly impossible odds, the power of choice and sacrifice, and the struggle for freedom against overwhelming power.
@@ -61,7 +61,7 @@ seed_examples:
         answer: |
           The Architect explains that the Matrix is a cycle of control, and Neo is part of that cycle.
       - question: |
-          Why do Neo and Trinity go to the Machine City?          
+          Why do Neo and Trinity go to the Machine City?
         answer: |
           They hope to negotiate peace with the machines and save Zion from destruction.
       - question: |
@@ -70,7 +70,7 @@ seed_examples:
           Neo allows Smith to assimilate him, which overloads Smith's code and destroys him.
   - context: |
       The third part is  The Matrix Resurrections (2021) - The Rebirth
-      The Premise is Decades after the events of the original trilogy, Neo and Trinity are trapped in a new version of the Matrix, unaware of their past lives. 
+      The Premise is Decades after the events of the original trilogy, Neo and Trinity are trapped in a new version of the Matrix, unaware of their past lives.
       They must rediscover their connection and fight to break free from the simulation once again.
       Key Events are Neo's reawakening, meeting a new Morpheus and a young rebel named Bugs, Trinity remembering her true identity, and a final flight symbolizing their liberation.
       The Core Theme is The enduring power of love and hope, the importance of memory and identity, and the possibility of reshaping reality through choice and belief.
@@ -96,7 +96,7 @@ seed_examples:
         answer: |
           Neo and Trinity, now working together, have the power to reshape the Matrix and create a more balanced world.
   - context: |
-      The World of the Matrix 
+      The World of the Matrix
       A computer simulation that enslaves humanity, hiding the real world which is a desolate wasteland.
       Key Locations: The Matrix: A digital reality mimicking different time periods, but with rules that can be bent.
       Key Locations: Zion: The last human city, hidden deep underground.
