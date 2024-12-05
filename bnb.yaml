@@ -1,0 +1,27 @@
+version: 3
+domain: Virtualization Migration
+created_by: Madhavi
+seed_examples:
+  - context: |
+      The recent acquisition of VMware by Broadcom has sparked concerns about potential price increases, support changes, and uncertainty about future development. This has led many organizations to explore alternative virtualization platforms like Azure Stack HCI and OpenShift Virtualization, often with Dell Technologies as a platform integrator. Key considerations include licensing models (subscription vs. perpetual), virtualization technologies (Hyper-V vs. KubeVirt), and factors like workload compatibility, integration, security, cost, and required skillsets.
+    questions_and_answers:
+      - question: |
+          Why are companies considering migrating away from VMware after the Broadcom acquisition?
+        answer: |
+          Companies are concerned about potential price hikes for VMware products and support, possible changes in support quality, and uncertainty about Broadcom's long-term commitment to innovation in the VMware product line.
+      - question: |
+          What are the key differences between Azure Stack HCI and OpenShift Virtualization?
+        answer: |
+          Azure Stack HCI is a Microsoft-based hyperconverged infrastructure solution tightly integrated with Azure cloud services and using Hyper-V for virtualization. OpenShift Virtualization is built on Kubernetes and uses KubeVirt, making it suitable for organizations embracing containerization and cloud-native approaches.
+      - question: |
+          What role does Dell Technologies play in migrating to these alternative platforms? 
+        answer: |
+          Dell Technologies can act as a platform integrator, providing hardware, software, and services to simplify the migration process. They offer validated solutions, deployment assistance, and ongoing support for both Azure Stack HCI and OpenShift Virtualization.
+      - question: |
+          What are the licensing options for Azure Stack HCI?
+        answer: |
+          Azure Stack HCI offers both subscription-based and perpetual licensing options. The new perpetual license includes the Azure Stack HCI OS, Windows Server Datacenter, and Azure Kubernetes Service on Azure Stack HCI.
+      - question: |
+          What are the key considerations when choosing between Azure Stack HCI and OpenShift Virtualization?
+        answer: |
+          Key considerations include workload compatibility with the chosen hypervisor, integration with existing infrastructure, security features, total cost of ownership, and the skillset of your IT team.
