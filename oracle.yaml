@@ -40,7 +40,6 @@ seed_examples:
           What is the significance of the "white rabbit" that Neo follows?
         answer:
           The white rabbit is a symbol of curiosity and the pursuit of truth, leading Neo down the path to discovering the Matrix.
-
   - context: |
       The second part of the series is The Matrix Reloaded & The Matrix Revolutions (2003) - The War
       The Premise is Neo grapples with his role as "The One" while Zion, the last human city, faces imminent destruction from the machines. The conflict escalates, with Neo facing new enemies and making difficult choices that will determine the fate of humanity.
@@ -121,34 +120,34 @@ seed_examples:
           What are Sentinels?
         answer: |
           Machines that patrol the real world and hunt humans.
-    - context: |
-        Philosophical Ideas: Reality vs. Simulation: What is real? Can we trust our senses?
-        Philosophical Ideas: Humanity vs. Technology: What are the consequences of unchecked technological advancement?
-        Character Arcs: Neo's Journey: From an ordinary hacker to a powerful savior who challenges the system.
-        Character Arcs: Agent Smith's Transformation: From an agent of control to a symbol of chaos and destruction.
-        The Series' Legacy: Cultural Impact: Influencing countless films, books, games, and philosophical discussions.
-        Visual Effects: Pioneering techniques like "bullet time" that changed action filmmaking.
-      questions_and_answers:
-        - question: |
-            What is the main philosophical question the Matrix series explores about reality?
-          answer: |
-            Whether the reality we perceive is genuine or an illusion.
-        - question: |
-            What does Neo's journey represent?
-          answer:
-            The potential for growth, self-discovery, and sacrifice.
-        - question: |
-            How does Agent Smith change throughout the series?
-          answer:
-            He evolves from an agent of order to a symbol of chaos.
-        - question: |
-            What is the significance of "bullet time"?
-          answer:
-            It was a groundbreaking visual effect that changed action filmmaking.
-        - question: |
-            Why is the Matrix series still relevant today?
-          answer:
-            It explores timeless themes about technology, reality, and the human condition that remain relevant in our increasingly digital world.
+  - context: |
+      Philosophical Ideas: Reality vs. Simulation: What is real? Can we trust our senses?
+      Philosophical Ideas: Humanity vs. Technology: What are the consequences of unchecked technological advancement?
+      Character Arcs: Neo's Journey: From an ordinary hacker to a powerful savior who challenges the system.
+      Character Arcs: Agent Smith's Transformation: From an agent of control to a symbol of chaos and destruction.
+      The Series' Legacy: Cultural Impact: Influencing countless films, books, games, and philosophical discussions.
+      Visual Effects: Pioneering techniques like "bullet time" that changed action filmmaking.
+    questions_and_answers:
+      - question: |
+          What is the main philosophical question the Matrix series explores about reality?
+        answer: |
+          Whether the reality we perceive is genuine or an illusion.
+      - question: |
+          What does Neo's journey represent?
+        answer:
+          The potential for growth, self-discovery, and sacrifice.
+      - question: |
+          How does Agent Smith change throughout the series?
+        answer:
+          He evolves from an agent of order to a symbol of chaos.
+      - question: |
+          What is the significance of "bullet time"?
+        answer:
+          It was a groundbreaking visual effect that changed action filmmaking.
+      - question: |
+          Why is the Matrix series still relevant today?
+        answer:
+          It explores timeless themes about technology, reality, and the human condition that remain relevant in our increasingly digital world.
 document_outline: |
   The ultimate matrix series
 document:
