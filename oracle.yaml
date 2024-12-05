@@ -3,7 +3,7 @@ domain: Matrix Movies
 created_by: Madhavi
 seed_examples:
   - context: |
-      The *Matrix* movie series is a science fiction franchise that explores themes of reality, free will, and human-machine interaction. The story begins with Neo, a computer hacker, discovering that the world he lives in is a simulated reality called the Matrix. Guided by Morpheus and Trinity, Neo learns about his potential as "The One," destined to free humanity from machine domination. The series combines philosophical questions, groundbreaking action scenes, and iconic dialogues to create a lasting impact on audiences. It includes four films: *The Matrix* (1999), *The Matrix Reloaded* (2003), *The Matrix Revolutions* (2003), and *The Matrix Resurrections* (2021). Prominent characters include Neo, Morpheus, Trinity, Agent Smith, the Architect, the Oracle, and the Keymaker. Major themes include the nature of reality, determinism vs. free will, and the cost of knowledge and freedom.
+      The Matrix movie series is a science fiction franchise that explores themes of reality, free will, and human-machine interaction. The story begins with Neo, a computer hacker, discovering that the world he lives in is a simulated reality called the Matrix. Guided by Morpheus and Trinity, Neo learns about his potential as The One, destined to free humanity from machine domination. The series combines philosophical questions, groundbreaking action scenes, and iconic dialogues to create a lasting impact on audiences. It includes four films: The Matrix released in 1999, The Matrix Reloaded released in 2003, The Matrix Revolutions released in 2003, and The Matrix Resurrections released in 2021. Prominent characters include Neo, Morpheus, Trinity, Agent Smith, the Architect, the Oracle, and the Keymaker. Major themes include the nature of reality, determinism vs. free will, and the cost of knowledge and freedom.
     questions_and_answers:
       - question: |
           What is the Matrix in the movie series?
@@ -12,7 +12,7 @@ seed_examples:
       - question: |
           What role does Neo play in the Matrix series?
         answer: |
-          Neo is "The One," a prophesied individual destined to free humanity from the Matrix. He learns to manipulate the rules of the simulated reality and ultimately sacrifices himself to bring peace between humans and machines.
+          Neo is The One, a prophesied individual destined to free humanity from the Matrix. He learns to manipulate the rules of the simulated reality and ultimately sacrifices himself to bring peace between humans and machines.
       - question: |
           What does the Architect reveal to Neo in *The Matrix Reloaded*?
         answer: |
@@ -24,9 +24,9 @@ seed_examples:
       - question: |
           What is the significance of Neo's choice to save Trinity over humanity in *The Matrix Reloaded*?
         answer: |
-          Neo’s choice to save Trinity instead of adhering to the Architect's expectations signifies his defiance of determinism and his prioritization of personal emotion over systemic control. This decision disrupts the Architect's cycle of control.
+          Choice of Neo to save Trinity instead of adhering to the Architect's expectations signifies his defiance of determinism and his prioritization of personal emotion over systemic control. This decision disrupts the Architect's cycle of control.
       - question: |
-          How does *The Matrix Revolutions* conclude?
+          How does The Matrix Revolutions conclude?
         answer: |
           The series concludes with Neo sacrificing himself to destroy Agent Smith, who has become a rogue program threatening both the Matrix and the real world. His sacrifice brokers a truce between humans and machines, bringing temporary peace.
       - question: |
