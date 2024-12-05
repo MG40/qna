@@ -1,0 +1,35 @@
+version: 3
+domain: Matrix Movies
+created_by: ChatGPT
+seed_examples:
+  - context: |
+      The *Matrix* movie series is a science fiction franchise that explores themes of reality, free will, and human-machine interaction. The story begins with Neo, a computer hacker, discovering that the world he lives in is a simulated reality called the Matrix. Guided by Morpheus and Trinity, Neo learns about his potential as "The One," destined to free humanity from machine domination. The series combines philosophical questions, groundbreaking action scenes, and iconic dialogues to create a lasting impact on audiences. It includes four films: *The Matrix* (1999), *The Matrix Reloaded* (2003), *The Matrix Revolutions* (2003), and *The Matrix Resurrections* (2021). Prominent characters include Neo, Morpheus, Trinity, Agent Smith, the Architect, the Oracle, and the Keymaker. Major themes include the nature of reality, determinism vs. free will, and the cost of knowledge and freedom.
+    questions_and_answers:
+      - question: |
+          What is the Matrix in the movie series?
+        answer: |
+          The Matrix is a simulated reality created by machines to keep humans unaware that they are being used as an energy source. It is a virtual world designed to resemble the late 20th century.
+      - question: |
+          What role does Neo play in the Matrix series?
+        answer: |
+          Neo is "The One," a prophesied individual destined to free humanity from the Matrix. He learns to manipulate the rules of the simulated reality and ultimately sacrifices himself to bring peace between humans and machines.
+      - question: |
+          What does the Architect reveal to Neo in *The Matrix Reloaded*?
+        answer: |
+          The Architect reveals that Neo is part of a cycle where the Matrix is periodically reset, and Zion is destroyed and rebuilt. This system is designed to control humanity and manage the anomaly of free will.
+      - question: |
+          Who is the Keymaker, and what is his purpose?
+        answer: |
+          The Keymaker is a program who creates access points to restricted areas of the Matrix. His purpose is to help Neo reach the Source, the central control of the Matrix.
+      - question: |
+          What is the significance of Neo's choice to save Trinity over humanity in *The Matrix Reloaded*?
+        answer: |
+          Neo’s choice to save Trinity instead of adhering to the Architect's expectations signifies his defiance of determinism and his prioritization of personal emotion over systemic control. This decision disrupts the Architect's cycle of control.
+      - question: |
+          How does *The Matrix Revolutions* conclude?
+        answer: |
+          The series concludes with Neo sacrificing himself to destroy Agent Smith, who has become a rogue program threatening both the Matrix and the real world. His sacrifice brokers a truce between humans and machines, bringing temporary peace.
+      - question: |
+          What themes are explored in the Matrix movies?
+        answer: |
+          The Matrix movies explore themes of reality and illusion, free will versus determinism, human potential, the symbiotic relationship between humans and machines, and the sacrifices required for freedom and knowledge.
